@@ -9,3 +9,5 @@ print(f'El salario mensual del vendedor es: {salarioTotal}')
 
 # 5% de salario 175000
 # 19% de comicion de dedu cciones 665000
+
+#hola

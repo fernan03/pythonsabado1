@@ -1,5 +1,6 @@
 numero1=int(input("Digite primer numero entero: "))
 numero2=int(input("Digite segundo numero entero: "))
+#hola
 
 if(numero1 > numero2):
     print(f'El numero {numero1} es mayor que {numero2}')

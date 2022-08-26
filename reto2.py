@@ -2,6 +2,7 @@ numero=int(input("Digite un numero entero: "))
 modulo= numero%5
 
 #Condicional simple en python
+#hola
 
 if(modulo==0):
     print(f'El numero {numero} es multiplo de 5')
